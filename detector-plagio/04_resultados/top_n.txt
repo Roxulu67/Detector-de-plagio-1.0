@@ -1,0 +1,7 @@
+Documento 1		| Documento 2		| Similitud (%)
+------------------------------------------------------------
+documento_100.txt    | documento_70.txt     | 18
+documento_17.txt     | documento_30.txt     | 17
+documento_14.txt     | documento_71.txt     | 17
+documento_6.txt      | documento_61.txt     | 17
+documento_50.txt     | documento_90.txt     | 17
